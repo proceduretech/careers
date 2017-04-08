@@ -1,6 +1,6 @@
 ![Procedure][logo]
 
-# Software Engineer | 2-4 years of experience
+# Software Engineer (Remote) | 2-4 years of experience
 
 Here at Procedure, we celebrate people, the team and individuals. With a team of 5, we drive business process automation at an affordable rate with a belief that quality software should be affordable.
 
@@ -30,7 +30,7 @@ We hire creative people and give them complete freedom to do great work. We beli
 __We welcome all applicants__ regardless of race, color, ethnicity, actual or perceived sexual identity, gender identity, ability, disability, religious beliefs or disbeliefs, national origin, age, or marital status.
 
 ## How to apply
-If you like what you read above and are interested to join us, drop a mail at [Join Us][mail-address]. 
+If you like what you read above and are interested to join us, drop a mail with your resume/github profile at [Join Us][mail-address]. 
 
 
 [mail-address]: mailto:join-us@theprocedure.in
