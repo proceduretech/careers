@@ -21,7 +21,7 @@ Here at Procedure, we celebrate people, the team and individuals. With a team of
 * You have an excellent command of written and spoken English
 
 ## More About Us
-We are a team of driven individuals with a mission to identify and solve interesting business challenges. Our team include people who have worked in giant like [EY][EY-website], silicon valley company like [OpenTable][OT-website] and also worked in startups.
+We are a team of driven individuals with a mission to identify and solve interesting business challenges. Our team include people who have worked in giants like [EY][EY-website], [Jacobs][jacobs-website], silicon valley company like [OpenTable][OT-website], along with multiple startups.
 
 Our techstack include Angular, AnguarlJS, React, Django, Sails, PHP, iOS, Android, React Native to name a few. We are quick to jump on new technologies and discard obsolete ones. We strongly believe in growing as a team so peer reviews are absolutely critical. We ship quality code without breaking stuff - focus is on Test Driven Development (TDD).
 
@@ -37,4 +37,4 @@ If you like what you read above and are interested to join us, drop a mail with 
 [logo]: logo.png "Procedure"
 [EY-website]: http://www.ey.com/
 [OT-website]: http://www.opentable.com/
-
+[jacobs-website]: http://www.jacobs.com/
