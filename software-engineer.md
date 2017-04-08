@@ -4,7 +4,7 @@
 
 Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 5, we drive business process automation with a goal to make human being friendly software accessible to larger sections of society.
 
-## Key Responsibility
+## Key Responsibilities
 * Work directly with our clients in conjunction with Business Development & Client Servicing to understand their business process. We're big on value addition; incremental or disruptive.
 * Proactively write clean code, optimize code, write tests, review peer code
 * Iterate quickly based on client feedback
