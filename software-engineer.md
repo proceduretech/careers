@@ -16,7 +16,7 @@ Here at Procedure, we celebrate people, the team and individuals. With a team of
 * You are able to identify and solve problems
 * You strive to write code that lasts years, not months
 * You don't shy away from working on new stacks, legacy codebases
-* You love to read open source code and get inspired with the amazing work published by other developers in the community
+* You love to read/author open source code and get inspired by the amazing work published by other developers in the community
 * You are updated with the latest news on tech, coding and development
 * You have an excellent command of written and spoken English
 
