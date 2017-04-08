@@ -22,7 +22,7 @@ Here at The Procedure, we celebrate people. We respect their ambitions and belie
 * You have an excellent command of written and spoken English
 
 ## More About Us
-We are a team of driven individuals with a mission to identify and solve interesting business challenges. Our team includes people who have worked in giants like [EY][EY-website], [Jacobs][jacobs-website], Silicon Salley bigwigs like [OpenTable][OT-website], amongst many other startups.
+We are a team of driven individuals with a mission to identify and solve interesting business challenges. Our team includes people who have worked in giants like [EY][EY-website], [Jacobs][jacobs-website], Silicon Valley bigwigs like [OpenTable][OT-website], amongst many other startups.
 
 * Our technology stack includes React, Django, Docker, iOS, Android, Angular, React Native, Sails, PHP to name a few.
 * We are quick to jump on new technologies and discard obsolete ones.
