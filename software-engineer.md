@@ -14,7 +14,6 @@ Here at The Procedure, we celebrate people. We respect their ambitions and belie
 * You are a passionate engineer with strong opinions and a diverse technical background
 * You have a sense of pride in the code you write
 * You believe that languages are tools to solve problems and are be able to pick the right tool for the right job
-* You are able to identify and solve problems
 * You strive to write code that lasts years, not months
 * You don't shy away from working on new stacks, legacy codebases
 * You love to read/author open source code and get inspired by the amazing work published by other developers in the community
