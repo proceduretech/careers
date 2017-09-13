@@ -2,7 +2,7 @@
 
 # Software Engineer (Remote) | 2-4 years of experience
 
-Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 10, we drive business process automation with a goal to make human being friendly software accessible to larger sections of society.
+Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 10, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
 
 ## Key Responsibilities
 * Work directly with our clients in conjunction with Business Development & Client Servicing to understand their business process. We're big on value addition; incremental or disruptive.
@@ -21,7 +21,7 @@ Here at The Procedure, we celebrate people. We respect their ambitions and belie
 * You have an excellent command of written and spoken English
 
 ## More About Us
-We are a team of driven individuals with a mission to identify and solve interesting business challenges. Our team includes people who have worked in giants like [EY][EY-website], [Jacobs][jacobs-website], Silicon Valley bigwigs like [OpenTable][OT-website], amongst many other startups.
+We are a team of driven individuals with a mission to identify and solve interesting business challenges. Our team includes people who have worked in giants like [EY][EY-website], [Jacobs][jacobs-website], [Capgemini][capgemini-website], Silicon Valley bigwigs like [OpenTable][OT-website], amongst many other startups.
 
 * Our technology stack includes React, Django, Docker, iOS, Android, Angular, React Native, Sails, PHP to name a few.
 * We are quick to jump on new technologies and discard obsolete ones.
@@ -43,3 +43,4 @@ If you like what you read above and are interested to join us, drop a mail with 
 [EY-website]: http://www.ey.com/
 [OT-website]: http://www.opentable.com/
 [jacobs-website]: http://www.jacobs.com/
+[capgemini-website]:http://www.capgemini.com/
