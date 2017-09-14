@@ -38,7 +38,7 @@ Most of all, we believe in you. And an environment that fosters creation above a
 Remember, __whoever you are and whatever your beliefs are__, if you are a problem solver looking for a good environment, you've found the sweet spot.
 
 ## How to apply
-If you like what you read above and are interested to join us, drop a mail with your resume/github profile [Join Us][mail-address]. 
+If you like what you read above and are interested to join us, drop a mail with your resume/github profile to [join-us@theprocedure.in][mail-address]. 
 
 
 [mail-address]: mailto:join-us@theprocedure.in
