@@ -1,13 +1,12 @@
 ![Procedure][logo]
 
 # Test Engineer (Quality Assurance) (Mumbai) | Web & Mobile | Experience 1-2 years
-
-Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 10, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
+Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 15, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
 
 ## Job Overview
 Test Engineer will assess software quality through manual and automated testing. He/She will be responsible for finding and reporting bugs and glitches. Ultimately, he/she will ensure that our products, applications and systems work correctly when implemented at client site
 
-## Key Responsibilities:
+## Key Responsibilities
 * Review and analyse system specifications
 * Participate in sprint planning, kick-off and backlog refinement meeting to estimate, prioritise and plan QA task
 * Collaborate to develop effective strategies and test plans
@@ -20,7 +19,7 @@ Test Engineer will assess software quality through manual and automated testing.
 * To complete testing in line with agreed timeframes and by following the documented business processes using the appropriate test management and automation tools.
 
 
-## Skills / Attributes Required:
+## Skills / Attributes Required
 * Proven experience as a QA tester
 * Experience in QA methodology
 * Familiarity with Agile frameworks and regression testing
@@ -46,7 +45,7 @@ Most of all, we believe in you. And an environment that fosters creation above a
 Remember, __whoever you are and whatever your beliefs are__, if you are a problem solver looking for a good environment, you've found the sweet spot.
 
 ## How to apply
-If you like what you read above and are interested to join us, drop a mail with your resume/github profile to [join-us@theprocedure.in][mail-address]. 
+If you like what you read above and are interested to join us, drop a mail with your resume/github profile to [renuka@theprocedure.in][mail-address]. 
 
 
 [mail-address]: mailto:renuka@theprocedure.in
