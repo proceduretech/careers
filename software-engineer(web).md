@@ -2,7 +2,7 @@
 
 # Software Engineer (Mumbai) | Web | Experience 2-4 years
 
-Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 10, we drive business process automation with a goal to make human being friendly softwares accessible to larger sections of society.
+Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 16, we drive business process automation with a goal to make human being friendly softwares accessible to larger sections of society.
 
 ## Key Responsibilities
 * Work directly with our clients in conjunction with Business Development & Client Servicing to understand their business process. We're big on value addition; incremental or disruptive.
@@ -14,7 +14,7 @@ Here at The Procedure, we celebrate people. We respect their ambitions and belie
 ## More About You
 * You have two or more years of solid commercial **Javascript** experience
 * You know how to write clean **HTML** and **CSS**
-* You have knowledge about framework such as **Angular**, **React** or **Vue.js**
+* You have knowledge about **React**
 * You can deploy on a service like AWS or Digital Ocean
 * You are a good problem solver
 * You are a passionate engineer with strong opinions and a diverse technical background
