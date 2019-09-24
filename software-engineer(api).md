@@ -1,12 +1,12 @@
 ![Procedure][logo]
 
-# Software Engineer (Mumbai) | Django/PHP | Experience 2-4 years
+# Software Engineer (Mumbai) | Django/Spring | Experience 2-4 years
 
-Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 10, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
+Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 16, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
 
 ## Key Responsibilities
 * Work directly with our clients in conjunction with Business Development & Client Servicing to understand their business process. We're big on value addition; incremental or disruptive.
-* Designing, building, testing and documenting software and web applications in **Python** or **PHP**
+* Designing, building, testing and documenting software and web applications in **Django** or **Spring**
 * Proactively write clean code, optimize code, write tests, review peer code
 * Identify production and non-production application issues
 * Iterate quickly based on client feedback
