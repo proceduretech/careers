@@ -1,13 +1,13 @@
 ![Procedure][logo]
 
-# Software Engineer (Mumbai) | Django/Spring | Experience 2-4 years
+# Software Engineer (Mumbai) | Django/Spring Boot | Experience 2-4 years
 
-Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 16, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
+Here at Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of passionate engineers, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
 
 ## Key Responsibilities
 
-- Work directly with our clients in conjunction with Business Development & Client Servicing to understand their business process. We're big on value addition; incremental or disruptive.
-- Designing, building, testing and documenting software and web applications in **Django** or **Spring**
+- Work directly for **Procedure** or **one of the associate companies** in conjunction with Business Development & Client Servicing to understand their business process. We're big on value addition; incremental or disruptive.
+- Designing, building, testing and documenting software and web applications in **Django** or **Spring Boot**
 - Proactively write clean code, optimize code, write tests, review peer code
 - Identify production and non-production application issues
 - Iterate quickly based on client feedback
@@ -29,7 +29,7 @@ Here at The Procedure, we celebrate people. We respect their ambitions and belie
 
 We are a team of driven individuals with a mission to identify and solve interesting business challenges. Our team includes people who have worked in giants like [EY][ey-website], [Jacobs][jacobs-website], [Capgemini][capgemini-website], Silicon Valley bigwigs like [OpenTable][ot-website], amongst many other startups.
 
-- Our technology stack includes React, Django, Docker, iOS, Android, Angular, React Native, Sails, PHP to name a few.
+- Our technology stack includes React, Django, Spring Boot, Docker, iOS, Android, React Native, Kubernetes to name a few.
 - We are quick to jump on new technologies and discard obsolete ones.
 - We strongly believe in growing as a team so peer reviews are absolutely critical.
 - We ship quality code without breaking stuff via Continuous Deployment and Test Driven Development (TDD).
