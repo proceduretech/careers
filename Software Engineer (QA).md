@@ -2,7 +2,7 @@
 
 # Test Engineer (Quality Assurance) (Mumbai) | Web & Mobile | Experience 1-2 years
 
-Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 15, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
+Here at The Procedure, we celebrate people. We respect their ambitions and beliefs. With a team of 30, we drive business process automation with a goal to make human friendly softwares accessible to larger sections of society.
 
 ## Job Overview
 
@@ -13,7 +13,7 @@ Test Engineer will assess software quality through manual and automated testing.
 - Review and analyse system specifications
 - Participate in sprint planning, kick-off and backlog refinement meeting to estimate, prioritise and plan QA task
 - Collaborate to develop effective strategies and test plans
-- Execute test cases (manual or automated) and analyse results
+- Create and execute test cases (manual or automated) and analyse results
 - Create logs to document testing phases and defects
 - Report bugs and errors to development teams
 - Help troubleshoot issues
@@ -26,6 +26,7 @@ Test Engineer will assess software quality through manual and automated testing.
 - Proven experience as a QA tester
 - Experience in QA methodology
 - Familiarity with Agile frameworks and regression testing
+- Knowledge of python or javascript
 - Ability to document and troubleshoot errors
 - Working knowledge of test management software
 - Excellent communication (verbal & written) skills
